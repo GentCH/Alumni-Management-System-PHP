@@ -1,9 +1,9 @@
 # Alumni-Management-System-PHP
-An Alumni Management System is proposed for Universiti Malaysia Pahang (UMP) in order to build a strong alumni community, keep track of graduates, and build a lifelong relationship among graduates and university.
+An Alumni Management System is proposed for Universiti Malaysia Pahang (UMP) in order to build a strong alumni community, keep track of graduates, and build a lifelong relationship among graduates and university. The system is completed in a team of 3 member.
 </br>Language: PHP, HTML, CSS, Javascript
 </br>Database: MySQL
 </br>Database name = we_miniproject
-<b>IMPORTANT: This sytem is for university coursework only.</b>
+</br><b>VERY IMPORTANT: This sytem is for university coursework only.</b>
 
 Some Screenshot of system:
 
