@@ -1,0 +1,95 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	background-color:cornsilk;
+	color:saddlebrown;
+}
+h2
+{
+	font-style:italic;
+	margin-left:200px;
+	font-size:40px;
+	color:darkgoldenrod;
+}
+table
+{
+	border:hidden;
+	width:650px;
+}
+th
+{
+	width:150px;
+	border:hidden;
+	font-size:18px;	
+}
+td
+{
+	width:450px;
+	border:hidden;
+}
+input, textarea
+{
+	padding:5px;
+	font-weight:bold;
+	font-family:Arial, Helvetica, sans-serif;
+	border:2px solid;
+	background-color:cornsilk;
+	border-color:peru;
+	font-size:14px;
+	color:saddlebrown;
+}
+input:focus, textarea:focus
+{
+	border-color:sienna;
+	color:sienna;
+}
+	
+.addforumbt
+{
+	color:saddlebrown;
+	font:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-weight:bold;
+	font-size:14px;
+	border:hidden;
+	border-radius:8px;
+	padding:12px 12px;
+	background-color:burlywood;	
+}
+.addforumbt:hover
+{
+	background-color:peru;
+}
+p.p1
+{
+	font-size:24px;
+	font-weight:bold;
+	color:sienna;
+	text-align:center;
+}
+p.p2
+{
+	font-size:24px;
+	font-weight:bold;
+	color:blue;
+	text-align:center;
+}
+#addforum_totop
+{
+	display: none;
+  	position: fixed;
+  	bottom: 20px;
+  	right: 30px;
+  	z-index: 99;
+  	border: none;
+  	outline: none;
+  	background-color:navajowhite;
+	padding:10px;
+  	border-radius: 4px;
+}
+#addforum_totop:hover
+{
+	background-color:burlywood;
+}
+	
+
