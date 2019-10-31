@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+.logout
+{
+	background: linear-gradient(to bottom right, darkgoldenrod 0%, burlywood 100%);
+  	width: 100%;
+  	height: 100%;
+	color:white;
+	font-size:50px;
+	text-align:center;
+}
